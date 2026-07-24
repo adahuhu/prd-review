@@ -836,7 +836,7 @@ PRD 文档中常引用外部文档（关联 PRD、设计稿、接口文档、上
     "doc_type": "A/B/C",
     "system": "ERP/SCM/WMS/LPS",
     "review_date": "2026-05-20",
-    "review_version": "v2.5.0",
+    "review_version": "v2.5.2",
     "is_re_review": false
   },
   "score": {
